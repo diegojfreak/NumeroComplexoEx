@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula4PO2\Aula4PO2\bin\Debug\Aula4PO2.exe.config
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula4PO2\Aula4PO2\bin\Debug\Aula4PO2.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula4PO2\Aula4PO2\bin\Debug\Aula4PO2.pdb
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula4PO2\Aula4PO2\obj\Debug\Aula4PO2.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula4PO2\Aula4PO2\obj\Debug\Aula4PO2.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula4PO2\Aula4PO2\obj\Debug\Aula4PO2.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\Aula4PO2\Aula4PO2\obj\Debug\Aula4PO2.pdb
